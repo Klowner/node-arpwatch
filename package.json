@@ -1,6 +1,6 @@
 {
   "name": "arpwatch",
-  "description": "Watches /proc/net/arp for changes and emits events"
+  "description": "Watches /proc/net/arp for changes and emits events",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
