@@ -1,0 +1,10 @@
+{
+  "name": "arpwatch",
+  "description": "Watches /proc/net/arp for changes and emits events"
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "lazy": "~1.0.11",
+    "lodash": "~2.4.1"
+  }
+}
