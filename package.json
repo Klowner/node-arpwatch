@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "lazy": "~1.0.11",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "coffee-script": "~1.7.1"
   }
 }
