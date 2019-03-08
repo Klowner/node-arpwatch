@@ -1,11 +1,11 @@
 {
   "name": "arpwatch",
   "description": "Watches /proc/net/arp for changes and emits events",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "lazy": "~1.0.11",
-    "lodash": "~2.4.1"
+    "lodash": ">=4.17.11"
   },
   "devDependencies": {
 	  "coffee-script": ">=1.0.1"
